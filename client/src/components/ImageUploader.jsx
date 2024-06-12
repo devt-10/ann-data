@@ -188,7 +188,7 @@ const FileUpload = () => {
             onClick={handleUpload}
             className="bg-[#555843] hover:bg-[#817b59] hover:text-[#555843] text-[#F5EEC8] font-bold py-2 px-4 rounded cursor-pointer ml-2"
           >
-            Submit
+            Submit Data.
           </button>
         </div>
       </div>
